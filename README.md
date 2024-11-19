@@ -61,7 +61,59 @@
 
 Задачи
 
-1-
+1-1-print('  Ж')
+
+print(' ЖЖЖ')
+
+print('ЖЖЖЖЖ')
+
+print(' Ж Ж')
+
+print(' ЖЖЖ')
+
+
+2-print('Ж')
+
+print('ЖЖ')
+
+print('ЖЖЖЖЖЖ')
+
+print('    ЖЖ')
+
+print('     Ж')
+
+
+3-print('Ж     Ж')
+
+print(' Ж   Ж')
+
+print(' ЖЖЖЖЖ')
+
+print(' Ж Ж Ж')
+
+print(' ЖЖЖЖЖ')
+
+
+4-print('     Ж')
+
+print('    ЖЖ')
+
+print('   ЖЖЖ')
+
+print(' ЖЖЖЖЖ')
+
+print('ЖЖЖЖЖЖ')
+
+
+5-print('Ж   Ж')
+
+print('ЖЖ ЖЖ')
+
+print('ЖЖЖЖЖ')
+
+print('ЖЖ ЖЖ')
+
+print('Ж   Ж')
 
 2-
 
